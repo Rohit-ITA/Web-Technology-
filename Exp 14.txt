@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.box1 {
+    width: 150px;
+    height: 150px;
+    background-color: orange;
+    position: absolute;
+    left: 100px;
+    top: 50px;
+}
+.box2 {
+    width: 150px;
+    height: 150px;
+    background-color: purple;
+    position: absolute;
+    left: 140px;
+    top: 90px;
+}
+</style>
+</head>
+<body>
+
+<div class="box1"></div>
+<div class="box2"></div>
+
+</body>
+</html>
